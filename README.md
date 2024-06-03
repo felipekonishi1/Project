@@ -1,2 +1,0 @@
-# Project
-my programming projects
